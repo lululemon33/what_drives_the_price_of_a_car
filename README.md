@@ -1,9 +1,9 @@
 # What drives the price of a car
 
-##Overview
+## Overview
 
-##Business Understanding
+## Business Understanding
 
-##Summary Findings
+## Summary Findings
 
-##Next Steps
+## Next Steps
