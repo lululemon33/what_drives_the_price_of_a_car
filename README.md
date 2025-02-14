@@ -10,7 +10,7 @@ Basically, we have been provided a dataset that contains 426K sales transactions
 
 Car dealerships build inventory up and then sell used cars as quickly as possible to make money. It is important for dealerships have a high turnover rate of their inventory.  In order to have a high inventory turnover rate, dealerships must adequately price their inventory so that it sells as quickly as possible and, at the same time, acheives the highest profit margin.  To acheive this goal it is important for the dealers to understand the price at which a used car can be sold. Pricing a used car too high will keep it in their inventory for a longer period of time. Hence, it is important to identify the drivers of value for potential clients to adequatly price each vehicle on the lot.
 
-To adequatly price a vehicle, we will investigate past transactions and explore the various features pertaining to previously sold vehicles impact the sales price the most. Using a regression model, we can make inferences about the optimal price at which a car can be sold.
+To adequatly price a vehicle, we will investigate past transactions and explore the various features pertaining to previously sold vehicles and the features which impact the sales price the most. Using a regression model, we can make inferences about the optimal price at which a car can be sold.
 
 ## Summary Findings
 
