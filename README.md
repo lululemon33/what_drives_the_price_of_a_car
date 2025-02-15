@@ -31,3 +31,5 @@ The feature 'year' seems to be the most influential independent variable when pr
 The year of the used car has the most influence on predicting the price. Again, odometer, drive, cylinders and fuel seem to have about the same influence when predicting the price of a used car. Also, automatic transmission seem to be preferred to other types of trammissions.
 
 ## Next Steps
+
+The data needs to be entered correctly to avoid missing values.  The features whose percentage of missing values was greater than 20% had the missing values replaced with the string "missing" which created an additional category after encoding.  Columns/features with larger than 20% missing values should be considered to be dropped in a subsequent iteration.
