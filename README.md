@@ -23,6 +23,7 @@ To build inventory that will produce the highest turnover with regards to the sa
 - Vehicles with forward or rear wheel drive
 - Vehicles with engines of a certain size (7 cylinders)
 - Vehicles with Automatic transmission
+- Vehicles with a gasoline engine
 
 Note, vehicles of varying engine sizes (cylinders) should be accumulated in the dealership's inventory in order to accomodate potential customers looking for a particular engine size.
 
