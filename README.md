@@ -22,12 +22,13 @@ To build inventory that will produce the highest turnover with regards to the sa
 - Vehicles not driven or used very frequently (low odometer readings)
 - Vehicles with forward or rear wheel drive
 - Vehicles with engines of a certain size (7 cylinders)
-- Vehicles with Automatic transmission
 - Vehicles with a gasoline engine
+- Vehicles with Automatic transmission (not as important as the above characteristics when determining price)
+
 
 Note, vehicles of varying engine sizes (cylinders) should be accumulated in the dealership's inventory in order to accomodate potential customers looking for a particular engine size.
 
-The feature 'year' seems to be the most influential independent variable when predicting the price of a car. The optimal Ridge model (polynomial degree 3) using alpha 10 seems to be the best model to use for price prediction of a used car producing a margin of error of +/- $4,360.
+The feature 'year' seems to be the most influential independent variable when predicting the price of a car. The optimal Ridge model (polynomial degree 3) using alpha 10 seems to be the best model to use for price prediction of a used car producing a margin of error of +/- $4,470.
 
 The year of the used car has the most influence on predicting the price. Again, odometer, drive, cylinders and fuel seem to have about the same influence when predicting the price of a used car. Also, automatic transmission seem to be preferred over other types of trammissions.
 
