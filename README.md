@@ -21,6 +21,7 @@ To build inventory that will produce the highest turnover with regards to the sa
 - Vehicles manufactured recently (within the last 5 years)
 - Vehicles not driven or used very frequently (low odometer readings)
 - Vehicles with forward or rear wheel drive
+- Vehicles with engines of a certain size (7 cylinders)
 - Vehicles with Automatic transmission
 
 Note, vehicles of varying engine sizes (cylinders) should be accumulated in the dealership's inventory in order to accomodate potential customers looking for a particular engine size.
