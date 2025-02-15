@@ -28,7 +28,7 @@ Note, vehicles of varying engine sizes (cylinders) should be accumulated in the 
 
 The feature 'year' seems to be the most influential independent variable when predicting the price of a car. The optimal Ridge model (polynomial degree 3) using alpha 10 seems to be the best model to use for price prediction of a used car producing a margin of error of +/- $4,360.
 
-The year of the used car has the most influence on predicting the price. Again, odometer, drive, cylinders and fuel seem to have about the same influence when predicting the price of a used car. Also, automatic transmission seem to be preferred to other types of trammissions.
+The year of the used car has the most influence on predicting the price. Again, odometer, drive, cylinders and fuel seem to have about the same influence when predicting the price of a used car. Also, automatic transmission seem to be preferred over other types of trammissions.
 
 ## Next Steps
 
